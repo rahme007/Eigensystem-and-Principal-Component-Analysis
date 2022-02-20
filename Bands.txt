@@ -1,0 +1,9 @@
+Costal
+Blue
+Green
+Yellow
+Red
+RedEdge
+NIR1
+NIR2
+
